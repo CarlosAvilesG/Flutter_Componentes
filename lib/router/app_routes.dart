@@ -23,7 +23,7 @@ class AppRoutes {
       route: 'listview1',
       icon: Icons.line_style_rounded,
       name: 'Listview Tipo 2',
-      screen: const listview2Screen(),
+      screen: const listView2Screen(),
     ),
     MenuOption(
       route: 'alert',
